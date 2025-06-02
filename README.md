@@ -3,7 +3,7 @@
 A simple JavaFX application for performing basic image processing operations on JPG images. Users can load an image, apply various transformations and filters, and save the processed result.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3c09ac06-78bc-4691-87b0-ea04e7710f98" width=75% />
+  <img src="https://github.com/user-attachments/assets/1552b27c-cf47-48fc-862d-f0d7a9cadaa9" width=75% />
 </p>
 
 
